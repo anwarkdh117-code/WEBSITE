@@ -1,0 +1,6 @@
+{
+  "name": "AI Developer Portfolio",
+  "description": "A minimalist, modern portfolio for an AI Developer featuring custom coding project showcases, an integrated technical blog, and an interactive live coding playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
